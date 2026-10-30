@@ -1,0 +1,583 @@
+[
+  {
+    "item": "SONOMATIC",
+    "asset": "assets/roto-mini.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MK1-500x395.png",
+    "page": "",
+    "caption": "Representative branch photo / illustration: Roto Climber Assessor (Mini). Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Subsea Inspection",
+    "asset": "assets/p5-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 5,
+    "caption": "Representative branch photo / illustration: MAG-ST. Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "Specialist Inspection",
+    "asset": "assets/edris.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-1-500x323.gif",
+    "page": "",
+    "caption": "Representative branch photo / illustration: EDRIS. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Robotic Inspection",
+    "asset": "assets/raptor.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-2-500x323.gif",
+    "page": "",
+    "caption": "Representative branch photo / illustration: Raptor II. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Tank Cleaning & Inspection",
+    "asset": "assets/icot.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/i-COT-3-500x281.jpg",
+    "page": "",
+    "caption": "Representative branch photo / illustration: i-COT. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "i-COT",
+    "asset": "assets/icot.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/i-COT-3-500x281.jpg",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "SONAR robotic range",
+    "asset": "assets/p17-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/SONAR-In-Service-Inspection-Of-Bulk-Liquid-Storage-Tanks.pdf",
+    "page": 2,
+    "caption": "Tank inspection deployment image from the SONAR range brochure, page 2; a range-level illustration."
+  },
+  {
+    "item": "Tank Floor Scanner – Electric",
+    "asset": "assets/p17-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Tank-Floor-Scanner-Electric-Tool-Overview-R5.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "FranScan (AP)",
+    "asset": "assets/p17-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/FranScan-AP.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Historical tank fleet",
+    "asset": "assets/p19-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 2,
+    "caption": "Representative branch photo / illustration: Hydraulic tank robots. Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "VR700MkV",
+    "asset": "assets/p18-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 3,
+    "caption": "Historical tank-robot fleet brochure excerpt, page 3. This is a shared fleet reference, not a verified photograph of this model."
+  },
+  {
+    "item": "VR600-24",
+    "asset": "assets/p18-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 3,
+    "caption": "Historical tank-robot fleet brochure excerpt, page 3. This is a shared fleet reference, not a verified photograph of this model."
+  },
+  {
+    "item": "SKORPION 4020",
+    "asset": "assets/p18-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 3,
+    "caption": "Historical tank-robot fleet brochure excerpt, page 3. This is a shared fleet reference, not a verified photograph of this model."
+  },
+  {
+    "item": "Hydraulic tank robots",
+    "asset": "assets/p19-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Electric tank robots",
+    "asset": "assets/p19-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Manual tank tools",
+    "asset": "assets/p19-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 3,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 3."
+  },
+  {
+    "item": "Video / UT swimming robots",
+    "asset": "assets/p19-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/261021-REV02-Storage-tank-cleaning-inspection-robotics-NAABE01.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Integrity Services",
+    "asset": "assets/p10-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Risers-Flexible-Risers-Caissons-and-Conductors-Inspection.pdf",
+    "page": 2,
+    "caption": "Inspection context image: MEC-MPS200+ MEC-MPS200. This branch covers software and/or integrity services. Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Analysis Software",
+    "asset": "assets/p10-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Risers-Flexible-Risers-Caissons-and-Conductors-Inspection.pdf",
+    "page": 2,
+    "caption": "Inspection context image: MEC-MPS200+ MEC-MPS200. This branch covers software and/or integrity services. Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Software Builder",
+    "asset": "assets/p10-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Risers-Flexible-Risers-Caissons-and-Conductors-Inspection.pdf",
+    "page": 2,
+    "caption": "Inspection context image: MEC-MPS200+ MEC-MPS200. This branch covers software and/or integrity services. Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Asset Integrity Management",
+    "asset": "assets/icot.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/i-COT-3-500x281.jpg",
+    "page": "",
+    "caption": "Inspection context image: i-COT. This branch covers software and/or integrity services. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "R&D Engineering",
+    "asset": "assets/p7-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 4,
+    "caption": "Representative branch photo / illustration: Gooseneck Bend Scanner. Manufacturer photo / illustration from Sonomatic brochure, page 4."
+  },
+  {
+    "item": "Subsea Tooling Developments",
+    "asset": "assets/p5-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 5,
+    "caption": "Representative branch photo / illustration: MAG-ST. Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "ROV-iT family",
+    "asset": "assets/p4-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ROV-iT-18-Tool-Overview-R1-1.pdf",
+    "page": 1,
+    "caption": "Representative branch photo / illustration: ROV-iT 18. Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "ROV-iT 12",
+    "asset": "assets/p4-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ROV-iT-12-Tool-Overview-R2.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "ROV-iT 18",
+    "asset": "assets/p4-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ROV-iT-18-Tool-Overview-R1-1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "ROV-iT 30",
+    "asset": "assets/p4-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ROV-iT-30-Tool-Overview-R2.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "ROV-iT Mini Mini ROViT / Mini-ROVIT",
+    "asset": "assets/p4-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ROV-iT-Mini-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Magnetic crawlers",
+    "asset": "assets/p5-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 5,
+    "caption": "Representative branch photo / illustration: MAG-ST. Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "MAG-Rover",
+    "asset": "assets/p5-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MAG-Rover-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "MAG-Crawler",
+    "asset": "assets/p5-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MAG-Crawler-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Mini-MAG",
+    "asset": "assets/p5-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Mini-MAG-Tool-Overview-R3.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "MAG-ST",
+    "asset": "assets/p5-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 5,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "Nautilus family",
+    "asset": "assets/p6-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MAG-Nautilus-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Representative branch photo / illustration: MAG-Nautilus. Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Nautilus",
+    "asset": "assets/p6-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Nautilus-Tool-Overview-R2.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "MAG-Nautilus",
+    "asset": "assets/p6-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MAG-Nautilus-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "MAG-Nautilus II",
+    "asset": "assets/p6-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MAG-Nautilus-II-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Complex-geometry scanners",
+    "asset": "assets/p7-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/NodeRay-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Representative branch photo / illustration: NodeRay Scanner. Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Gooseneck Bend Scanner",
+    "asset": "assets/p7-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 4,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 4."
+  },
+  {
+    "item": "i-Claw / iClaw",
+    "asset": "assets/p7-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/iClaw-Tool-Overview-R2.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "NodeRay Scanner",
+    "asset": "assets/p7-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/NodeRay-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Access Window Scanner",
+    "asset": "assets/p7-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/AWS-Tool-Overview-R2.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Flexible-riser systems",
+    "asset": "assets/hug.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MEC-Hug-PipeCrawler-1.png",
+    "page": "",
+    "caption": "Representative branch photo / illustration: MEC-Hug PipeCrawler. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "MEC-Hug PipeCrawler",
+    "asset": "assets/hug.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MEC-Hug-PipeCrawler-1.png",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "HFEC Scanner",
+    "asset": "assets/hfec-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/HFEC-Scanner-Insulated-Flexible-Riser-Inspection.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Additional subsea tools",
+    "asset": "assets/p10-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Subsea-Capability-Statement-Rev2.pdf",
+    "page": 5,
+    "caption": "Representative branch photo / illustration: MEC-Combi Crawler. Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "MEC-Combi Crawler",
+    "asset": "assets/p10-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Subsea-Capability-Statement-Rev2.pdf",
+    "page": 5,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "MEC-Combi PipeCrawler",
+    "asset": "assets/p10-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Subsea-Capability-Statement-Rev2.pdf",
+    "page": 5,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "Raptor II Subsea",
+    "asset": "assets/p13-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Raptor-II-Subsea-Tool-Overview-R2.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Subsea Manual UT System",
+    "asset": "assets/p14-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Subsea-Manual-UT-System-2.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Splashzone Tooling Developments",
+    "asset": "assets/roto-mk2.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-18-2-500x324.png",
+    "page": "",
+    "caption": "Representative branch photo / illustration: MK2 Roto Climber. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Roto systems",
+    "asset": "assets/roto-mini.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MK1-500x395.png",
+    "page": "",
+    "caption": "Representative branch photo / illustration: Roto Climber Assessor (Mini). Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Roto Climber Assessor (Mini)",
+    "asset": "assets/roto-mini.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MK1-500x395.png",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "MK2 Roto Climber",
+    "asset": "assets/roto-mk2.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-18-2-500x324.png",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Roto Piler",
+    "asset": "assets/roto-piler.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Roto-Piler-500x324.png",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "MEC-MPS family",
+    "asset": "assets/p10-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Risers-Flexible-Risers-Caissons-and-Conductors-Inspection.pdf",
+    "page": 2,
+    "caption": "Representative branch photo / illustration: MEC-MPS200+ MEC-MPS200. Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "MEC-MPS200+ MEC-MPS200",
+    "asset": "assets/p10-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Risers-Flexible-Risers-Caissons-and-Conductors-Inspection.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Internal caisson tools",
+    "asset": "assets/p11-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 6,
+    "caption": "Representative branch photo / illustration: Internal Cleaning Tool ICT. Manufacturer photo / illustration from Sonomatic brochure, page 6."
+  },
+  {
+    "item": "SPIRO SPIral-ROtation",
+    "asset": "assets/p11-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/SPIRO-Tool-Offshore-Risers-Caissons-And-Structures.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Internal Inspection Tool",
+    "asset": "assets/p11-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 5,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "Internal Cleaning Tool ICT",
+    "asset": "assets/p11-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 6,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 6."
+  },
+  {
+    "item": "Topside Tooling Developments",
+    "asset": "assets/edris.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-1-500x323.gif",
+    "page": "",
+    "caption": "Representative branch photo / illustration: EDRIS. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Pressure-vessel robots",
+    "asset": "assets/raptor.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-2-500x323.gif",
+    "page": "",
+    "caption": "Representative branch photo / illustration: Raptor II. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Raptor II",
+    "asset": "assets/raptor.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-2-500x323.gif",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "EDRIS",
+    "asset": "assets/edris.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Website-Images-1-500x323.gif",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Additional platforms",
+    "asset": "assets/stingray.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Sonomatic_Stingray_Insitu_V4_Stg2_16-9-500x281.jpg",
+    "page": "",
+    "caption": "Representative branch photo / illustration: Stingray Scanner. Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "Stingray Scanner",
+    "asset": "assets/stingray.png",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Sonomatic_Stingray_Insitu_V4_Stg2_16-9-500x281.jpg",
+    "page": "",
+    "caption": "Manufacturer image from Sonomatic’s official website."
+  },
+  {
+    "item": "AxolRay RCI",
+    "asset": "assets/p13-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/RD-E2i-Capability-Statement-Rev0.pdf",
+    "page": 5,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 5."
+  },
+  {
+    "item": "Fast XY Scanner",
+    "asset": "assets/p13-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Topside-Specialised-Inspection-Rev0.pdf",
+    "page": 3,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 3."
+  },
+  {
+    "item": "Manual & compact tools",
+    "asset": "assets/p14-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Man-Scan-II-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Representative branch photo / illustration: Man Scan II ManScan TOFD/PA. Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Belt Scanner CHIME Belt Scanner",
+    "asset": "assets/p14-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Belt-Scanner-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Man Scan II ManScan TOFD/PA",
+    "asset": "assets/p14-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Man-Scan-II-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "WRE H-Frame",
+    "asset": "assets/p14-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/WRE-H-Frame-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "MEC pipe & floor scanners",
+    "asset": "assets/p15-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MEC-Pipescanner.pdf",
+    "page": 2,
+    "caption": "Representative branch photo / illustration: MEC-P9. MEC pipescanner family figures from Sonomatic, page 2; shared family image, not a model-specific photograph."
+  },
+  {
+    "item": "MEC-P9",
+    "asset": "assets/p15-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MEC-Pipescanner.pdf",
+    "page": 2,
+    "caption": "MEC pipescanner family figures from Sonomatic, page 2; shared family image, not a model-specific photograph."
+  },
+  {
+    "item": "MEC-P13",
+    "asset": "assets/p15-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MEC-Pipescanner.pdf",
+    "page": 2,
+    "caption": "MEC pipescanner family figures from Sonomatic, page 2; shared family image, not a model-specific photograph."
+  },
+  {
+    "item": "MEC-P19",
+    "asset": "assets/p15-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/MEC-Pipescanner.pdf",
+    "page": 2,
+    "caption": "MEC pipescanner family figures from Sonomatic, page 2; shared family image, not a model-specific photograph."
+  },
+  {
+    "item": "Inspection Technique",
+    "asset": "assets/p14-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Subsea-Manual-UT-System-2.pdf",
+    "page": 2,
+    "caption": "Representative branch photo / illustration: Subsea Manual UT System. Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Custom inspection systems",
+    "asset": "assets/p20-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ENI-Fairlead-Robotic-Inspection.pdf",
+    "page": 1,
+    "caption": "Representative branch photo / illustration: Fairlead inspection crawler. Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "E-CAP multimission crawler",
+    "asset": "assets/p20-0-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ENI-Flex-Joint-Robotic-Inspection.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Fairlead inspection crawler",
+    "asset": "assets/p20-1-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/ENI-Fairlead-Robotic-Inspection.pdf",
+    "page": 1,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  },
+  {
+    "item": "Vertical Can Pump Casing Scanner",
+    "asset": "assets/p20-3-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/Vertical-Can-Pump-Casing-Inspection.pdf",
+    "page": 2,
+    "caption": "Manufacturer photo / illustration from Sonomatic brochure, page 2."
+  },
+  {
+    "item": "Equipment & Capabilities",
+    "asset": "assets/p7-2-brochure.jpg",
+    "source": "https://sonomatic.com/wp-content/uploads/sites/7/NodeRay-Tool-Overview-R1.pdf",
+    "page": 1,
+    "caption": "Representative branch photo / illustration: NodeRay Scanner. Manufacturer photo / illustration from Sonomatic brochure, page 1."
+  }
+]
